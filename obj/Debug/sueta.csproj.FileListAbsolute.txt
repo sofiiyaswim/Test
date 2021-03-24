@@ -1,0 +1,15 @@
+C:\Users\sofiyaswim\source\repos\sueta\bin\Debug\sueta.exe.config
+C:\Users\sofiyaswim\source\repos\sueta\bin\Debug\sueta.exe
+C:\Users\sofiyaswim\source\repos\sueta\bin\Debug\sueta.pdb
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.csprojAssemblyReference.cache
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\MainWindow.g.cs
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\App.g.cs
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta_MarkupCompile.cache
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta_MarkupCompile.lref
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\MainWindow.baml
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.g.resources
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.Properties.Resources.resources
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.csproj.GenerateResource.cache
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.csproj.CoreCompileInputs.cache
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.exe
+C:\Users\sofiyaswim\source\repos\sueta\obj\Debug\sueta.pdb
